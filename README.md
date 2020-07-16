@@ -3,9 +3,6 @@
 - 🔭 I’m currently working on ... open source projects
 - 🌱 I’m currently learning ... Java 14 preview
 - 👯 I’m looking to collaborate on ... Appium and ATD projects
-<!--
-- 🤔 I’m looking for help with ...
--->
 - 💬 Ask me about ... any query related to Automation testing.
 - 📫 How to reach me: ... https://wasiqb.github.io/
 - 😄 Pronouns: ... He/Him
