@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Wasiq Amjad Bhamla
 
+- 🔭 I’m currently working on ... open source projects
+- 🌱 I’m currently learning ... Java 14 preview
+- 👯 I’m looking to collaborate on ... Appium and ATD projects
 <!--
-**WasiqB/WasiqB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 💬 Ask me about ... any query related to Automation testing.
+- 📫 How to reach me: ... https://wasiqb.github.io/
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I like playing Chess and Carrom
+
+Check out my projects below :point_down:
