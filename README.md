@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Wasiq Amjad Bhamla 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-WasiqBhamla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wasiqbhamla/)][linkedin]
-[![Website Badge](https://img.shields.io/badge/-wasiqb.github.io-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://wasiqb.github.io)][site]
+[![Website Badge](https://img.shields.io/badge/-wasiqbhamla.github.io-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://wasiqb.github.io)][site]
 [![Twitter Badge](https://img.shields.io/badge/-@_WasiqBhamla-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WasiqBhamla)][twitter]
 
 </div>
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning? ... React and other new tools
 - 👯 I’m looking to collaborate on? ... Any test automation related open source projects.
 - 💬 Ask me about anything related to? ... Automation testing, techniques, and tools.
-- 📫 How to reach me: <https://wasiqb.github.io/>
+- 📫 How to reach me: <https://wasiqbhamla.github.io/website/>
 - ⚡ Fun fact: I like playing Chess and Carrom.
 
 <div align="center">
@@ -33,5 +33,5 @@
 </div>
 
 [linkedin]: https://www.linkedin.com/in/wasiqbhamla
-[site]: https://wasiqb.github.io
+[site]: https://wasiqbhamla.github.io/website/
 [twitter]: https://twitter.com/WasiqBhamla
