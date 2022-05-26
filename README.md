@@ -19,17 +19,17 @@
 <div align="center">
   <h2>📊 Profile stats</h2>
 
-![Wasiq's GitHub Stats](https://wasiq-gh-stats.vercel.app/api?username=WasiqB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dark "Wasiq's GitHub Stats")
-![Top Langs](https://wasiq-gh-stats.vercel.app/api/top-langs/?username=WasiqB&hide=scss,css,html&theme=dark&layout=compact)
+![Wasiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WasiqB&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WasiqB&hide=scss,css,html&theme=dark&layout=compact)
 
 </div>
 
 <div align="center">
   <h2>🎉 Check out some of my repositories</h2>
 
-[![ReadMe Card](https://wasiq-gh-stats.vercel.app/api/pin/?username=WasiqBhamla&repo=boyka-framework&theme=dark)](https://github.com/WasiqBhamla/boyka-framework)
-[![ReadMe Card](https://wasiq-gh-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-appium&theme=dark)](https://github.com/WasiqB/coteafs-appium)
-[![ReadMe Card](https://wasiq-gh-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-selenium&theme=dark)](https://github.com/WasiqB/coteafs-selenium)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqBhamla&repo=boyka-framework&theme=dark)](https://github.com/WasiqBhamla/boyka-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-appium&theme=dark)](https://github.com/WasiqB/coteafs-appium)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-selenium&theme=dark)](https://github.com/WasiqB/coteafs-selenium)
 
 </div>
 
