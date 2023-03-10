@@ -6,6 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-WasiqBhamla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wasiqbhamla/)][linkedin]
 [![Website Badge](https://img.shields.io/badge/-wasiqbhamla.github.io-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://wasiqb.github.io)][site]
 [![Twitter Badge](https://img.shields.io/badge/-@_WasiqBhamla-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WasiqBhamla)][twitter]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5dVxwIGl4xfY4gjkWuMspA?label=Subscribe%20to%20my%20YouTube&logo=YouTube&style=for-the-badge)][youtube]
 
 </div>
 
@@ -37,3 +38,4 @@
 [linkedin]: https://www.linkedin.com/in/wasiqbhamla
 [site]: https://wasiqbhamla.github.io/website/
 [twitter]: https://twitter.com/WasiqBhamla
+[youtube]: https://youtube.com/@WasiqBhamla
