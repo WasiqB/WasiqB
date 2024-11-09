@@ -30,8 +30,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykaFramework&repo=boyka-framework&theme=dark)](https://github.com/BoykaFramework/boyka-framework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=multiple-cucumber-html-reporter&theme=dark)](https://github.com/WasiqB/multiple-cucumber-html-reporter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-appium&theme=dark)](https://github.com/WasiqB/coteafs-appium)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=coteafs-selenium&theme=dark)](https://github.com/WasiqB/coteafs-selenium)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WasiqB&repo=ultra-reporter-app&theme=dark)](https://github.com/WasiqB/ultra-reporter-app)
 
 </div>
 
