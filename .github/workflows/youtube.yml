@@ -1,0 +1,16 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC5dVxwIGl4xfY4gjkWuMspA
+          readme_path: README.md
