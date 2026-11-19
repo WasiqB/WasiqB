@@ -1,6 +1,5 @@
-![wasiqb-banner](https://user-images.githubusercontent.com/9130909/150674884-e0908367-35bf-4d5f-af09-8f744f0e7b9f.png)
+<div align="center"><img width="1584" height="396" alt="Wasiq Bhamla" src="https://github.com/user-attachments/assets/b69ce55f-d889-48dc-ad3d-b9cf63d0f797" />
 
-<div align="center">
   <h1>Hi there, I'm Wasiq Amjad Bhamla 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-WasiqBhamla-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wasiqbhamla/)][linkedin]
@@ -36,7 +35,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UC5dVxwIGl4xfY4gjkWuMspA?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/sponsors/Learn-Test-Automation"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/WasiqB"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/wasiqbhamla
